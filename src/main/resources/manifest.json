@@ -1,0 +1,25 @@
+{
+  "Group": "dev.pixelplanet",
+  "Name": "JamAndMore",
+  "Version": "0.0.1",
+  "Description": "Adds berry jam to the game!",
+  "Authors": [
+    {
+      "Name": "cautious",
+      "Email": "your.email@example.com",
+      "Url": "https://your-website.com"
+    },
+    {
+      "Name": "iocutus",
+      "Email": "your.email@example.com",
+      "Url": "https://your-website.com"
+    }
+  ],
+  "Website": "https://your-plugin-website.com",
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "Main": "dev.pixelplanet.JamAndMore"
+}
